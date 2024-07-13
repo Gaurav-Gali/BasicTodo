@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    position: sticky;
+    top: 0;
+
+    /* Background */
+    background-color: white ;
+
+}
+
+nav #controls {
+    width: 40%;
+}

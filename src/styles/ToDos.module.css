@@ -1,0 +1,12 @@
+main {
+    margin: 10px;
+    padding: 10px;
+}
+
+.firstElement td {
+    font-weight: 600;
+}
+
+.list td {
+    font-weight: 400;
+}
